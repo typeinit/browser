@@ -5,56 +5,31 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+June 5, 2020
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Summary
+We at Typeinit Software as ("Typeinit") take your privacy seriously. Learn how to control the information that's collected, stored and protected when you use the Typeinit browser on your mobile device. The exact set of data we collect, its purpose and you opt-out choices depend on service you use. Please refer to service sections of this privacy statement to learn more specific details. Some of the data we collect may be considered personal. We treat this data in a special way, as required by law. And we’ll always respect your decisions for how your data is used. When we update this privacy statement or how we use your personal information, we will notify you either by making a notification on our web site and introduction of Typeinit browser. From time to time, our privacy notice may change, so please review it periodically.
+Why do we collect data?
+We only process your data to objectively justified by our products and services. We process this data with respect to your fundamental right to privacy, including the need to protect personal integrity and private life and to ensure that your personal data is of adequate quality. Unless otherwise stated, we determine the purposes for and manners in which your data is collected.
+The purpose of we collect data:
+Improve, debug, and maintain Typeinit browser and services.
+Do simple statistics and collect error exception when user encountered force close(FC)
+Fulfill legal requirements
+Conduct business analysis and research, and marketing campaigns
+Ensure better security and protection for users
+What data do we collect?
+The information we collect may include: personal data, for example your IP-address, location; and non-personal technical data, for example your Wi-Fi connection, network connection. You can find detailed descriptions in our Explanation of Typeinit For Android Permission. We do not collect your personal identifiable information when you using our product, such as name, phone number.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
-<br>
-
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
-
-<br>
-
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+How do we collect data?
+When you provide it explicitly to us;
+When you use our products and services;
+Typeinit browser require your phone status and identity for getting user’s android device info to do simple statistics and collect error exception when user encountered force close. When your browse some web which may require your personal data to do service.
+How do we protect your data?
+We treat your personal data as required by law. We are Based In India and we follow Indian data-security laws as well as other national legislation. And our suppliers successfully pass security assessments and prove their compliance with applicable laws and industry standards. Our commitment to your privacy does not extend to third-party products and services you may access from Typeinit browser and services.
+How do we share your data?
+As described elsewhere in this statement. Some of our products and services include third-party technology or code that may use the collected data. We may share anonymized and/or aggregated sets of data with our partners and other trusted third parties.
+What else you should know
+We aim to be transparent as to what data we collect and how we use it. Your rights are not limited to consent. If you’ve provided personal information to us, you may change or modify this information at any time.
+Contact information
+If you still have any question about your privacy, you can contact us. And we will reply to you as soon as possible.
+Email: typeinit@gmail.com 
