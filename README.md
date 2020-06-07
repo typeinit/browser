@@ -4,7 +4,7 @@
 Designed for GitHub Pages.
 
 
-<img src="https://i.ibb.co/8xC849C/typeinit.png" alt="typeinit" border="0">
+<img src="https://pasteboard.co/JbV5zav.png" alt="typeinit" border="0">
 
 
 
@@ -20,7 +20,7 @@ If you have feedback regarding bugs or improvements, open an issue
 [Donations are welcome](https://www.paypal.me/l3h1m)
 
 ## Author
-[Emil Typeinit](https://typeinit@gmail.com/)
+[Email Typeinit](https://typeinit@gmail.com/)
 
 ## License
 [MIT License](LICENSE)
